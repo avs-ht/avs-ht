@@ -56,8 +56,7 @@
 ---
 
 ### [Links highligher extension](https://github.com/avs-ht/history-links-highlighter)
-> A browser extension that visually highlights visited links based on your browsing history.
-
+> A browser extension that visually highlights visited links based on your browsing history
 **Stack:** React, TypeScript, TailwindCSS
 
 ---
@@ -71,6 +70,8 @@
 > Web app for giveaways
 
 **Stack:** React, Tailwind, Typescript
+
+
 ---
 
 ### Gosuslugi Parser
