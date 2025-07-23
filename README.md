@@ -36,33 +36,41 @@
 ---
 
 ### [Sora Dice (Prod 2024 Hackathon)](http://sora-dice.vercel.app/)
-> A gamified habit tracker built during a hackathon (Prod2024). Tracks your daily goals and turns consistency into rewards.  
+> A gamified habit tracker built during a hackathon (Prod2024). Tracks your daily goals and turns consistency into rewards
+
 **Stack:** React, TypeScript, CSS Modules
 
----
 
 ### [Fitness App (Prod2025 Hackathon)](http://prod-2025-fitness-app.vercel.app/)
-> A full-stack fitness app built during the Prod2025 hackathon. Includes daily routines, progress tracking, and community support.  
+> A full-stack fitness app built during the Prod2025 hackathon. Includes daily routines, progress tracking, and community support
+
 **Stack:** React, TypeScript, CSS Modules
-
----
-
-### [history-links-highlighter](https://github.com/avs-ht/history-links-highlighter)
-> A browser extension that visually highlights visited links based on your browsing history.  
-**Stack:** React, TypeScript, TailwindCSS
 
 ---
 
 ### [History Wheel](https://github.com/avs-ht/history-wheel)
-> Visualizes your browser history as a wheel — helps you reflect on your navigation habits in a fun and interactive way.  
+> Visualizes your browser history as a wheel — helps you reflect on your navigation habits in a fun and interactive way
+
+**Stack:** React, TypeScript, Tailwind
+
+---
+
+### [Links highligher extension](https://github.com/avs-ht/history-links-highlighter)
+> A browser extension that visually highlights visited links based on your browsing history.
+
 **Stack:** React, TypeScript, TailwindCSS
 
 ---
 
 ### [@GGroupBot](https://t.me/GGroupBot)
-> Telegram bot for restaurant groups and orders — helps coordinate menus, collect feedback, and simplify group decisions.  
-**Platform:** Telegram Bot API, Python
+> Telegram bot for restaurant groups
 
+**Stack:** Telegram Bot API, Python + React, Tailwind, Tailwind
+
+### [Treasure island](https://t.me/island555_test_bot)
+> Web app for giveaways
+
+**Stack:** React, Tailwind, Typescript
 ---
 
 ### Gosuslugi Parser
